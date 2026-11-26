@@ -1,0 +1,13 @@
+# secrets: never commit these
+.env
+*.pem
+*.key
+# python
+__pycache__/
+.venv/
+# terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+# macOS
+.DS_Store

@@ -1,7 +1,7 @@
 [project]
 name = "eka"
 version = "0.1.0"
-description = "Add your description here"
+description = "Enterprise Knowledge Agent"
 readme = "README.md"
 authors = [
     { name = "surajbadrinarayanans-gh", email = "265934615+surajbadrinarayanans-gh@users.noreply.github.com" }
